@@ -1,5 +1,6 @@
 # WebApp-Store
 ![logo](https://thumbsnap.com/i/SGseMsiE.jpg?1219)
+Магазин, webapp telegram, собрал с использованием фв Django.
 
 # 1 - Аутентификация/Регистрация
 - декодирую строку от телеги
